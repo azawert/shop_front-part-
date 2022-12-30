@@ -37,6 +37,7 @@ export const createNewBrand = async (data) => {
             draggable: true,
             progress: undefined,
             theme: "colored",
+            bodyClassName:'lol'
         });
     }
 }
